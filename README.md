@@ -46,6 +46,8 @@ Obviously, you will need a webcam device to run this program.
 
 ## Things I Learned From This Project
 
+[Here](https://docs.google.com/document/d/163U7340cbnPRj59ZZtbEYa4ANk13sTHwe9OMeZgA3Aw/edit) is a link to my progress report from the SoC 2020 project.
+
 Brief descriptions of the learning components of this project are given below:
 
 ### [OpenCV Practice](https://github.com/ankitkmisra/SoC-2020-Gestures-for-3D-Space/tree/master/OpenCV%20Practice)
@@ -71,8 +73,6 @@ This directory contains two Jupyter notebooks, in which I used transfer learning
 ### [Learning PyTorch](https://github.com/ankitkmisra/SoC-2020-Gestures-for-3D-Space/tree/master/Learning%20PyTorch)
 
 This directory contains a single Jupyter notebook I wrote when learning the basics of PyTorch. PyTorch was not used further in this project.
-
-[Here](https://docs.google.com/document/d/163U7340cbnPRj59ZZtbEYa4ANk13sTHwe9OMeZgA3Aw/edit) is a link to my progress report from the SoC 2020 project.
 
 ## Citations and Resources Used
 
