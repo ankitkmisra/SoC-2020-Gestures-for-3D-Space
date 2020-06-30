@@ -42,6 +42,8 @@ $ python3 main.py
 
 Obviously, you will need a webcam device to run this program.
 
+[Here](https://docs.google.com/document/d/102jG50hdL8tQ0rB6SdlqAePl-nqStxj9l3GfbJ9Moic/edit) is a link to my final project's Software Requirements Specification (SRS) document.
+
 ## Things I Learned From This Project
 
 Brief descriptions of the learning components of this project are given below:
@@ -64,11 +66,13 @@ This directory contains some machine learning programs I wrote for practice, and
 
 ### [Transfer Learning](https://github.com/ankitkmisra/SoC-2020-Gestures-for-3D-Space/tree/master/Transfer%20Learning)
 
-This directory contains two Jupyter notebooks, in which I used transfer learning from the VGG16 and the ResNet50 convolutional bases respectively (pre-trained on the ImageNet dataset) to build a model for gesture recognition. The data used came from the [Fingers](https://www.kaggle.com/koryakinp/fingers) dataset on Kaggle. I learned through this experience that transfer learning really helps boost the model's performance quite a bit.
+This directory contains two Jupyter notebooks, in which I used transfer learning from the VGG16 and the ResNet50 convolutional bases respectively (pre-trained on the ImageNet dataset) to build a model for gesture recognition. The data used came from the [Fingers](https://www.kaggle.com/koryakinp/fingers) dataset on Kaggle. I learned through this experience that transfer learning really helps boost the model's performance quite a bit. Click [here](https://drive.google.com/drive/u/0/folders/1PCRWk8fMBj7ucNOA0Gm3-OzzSRrbeMrT) to access the trained models, saved in H5 files. 
 
 ### [Learning PyTorch](https://github.com/ankitkmisra/SoC-2020-Gestures-for-3D-Space/tree/master/Learning%20PyTorch)
 
 This directory contains a single Jupyter notebook I wrote when learning the basics of PyTorch. PyTorch was not used further in this project.
+
+[Here](https://docs.google.com/document/d/163U7340cbnPRj59ZZtbEYa4ANk13sTHwe9OMeZgA3Aw/edit) is a link to my progress report from the SoC 2020 project.
 
 ## Citations and Resources Used
 
