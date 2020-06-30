@@ -40,7 +40,7 @@ $ cd 'SoC-2020-Gestures-for-3D-Space/Final Project - One Shot Learning/'
 $ python3 main.py
 ```
 
-Obviously, you will need a webcam device to run this program.
+Obviously, you will need a webcam device to run this program. A plain white background (such as a wall) works best.
 
 [Here](https://docs.google.com/document/d/102jG50hdL8tQ0rB6SdlqAePl-nqStxj9l3GfbJ9Moic/edit) is a link to my final project's Software Requirements Specification (SRS) document.
 
