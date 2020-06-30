@@ -54,6 +54,10 @@ Brief descriptions of the learning components of this project are given below:
 
 This directory contains several practice programs, written in Jupyter notebooks and Python-3 scripts when I was learning to use [OpenCV Python](https://opencv-python-tutroals.readthedocs.io/en/latest/). The topics covered include various kinds of image processing, such as thresholding, blurring, affine transformations, edge detection, corner detection, feature matching, watershed segmentation, etc.
 
+### [Naive Gesture Recognition](https://github.com/ankitkmisra/SoC-2020-Gestures-for-3D-Space/tree/master/Naive%20Gesture%20Recognition)
+
+This directory contains a Python script for naive gesture recognition, using OpenCV Python only, and another Python script for skin detection, again using OpenCV Python.
+
 ### [NumPy Practice](https://github.com/ankitkmisra/SoC-2020-Gestures-for-3D-Space/tree/master/NumPy%20Practice)
 
 This directory contains some practice programs, written in Jupyter notebooks when I was learning NumPy, from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas.
@@ -89,3 +93,5 @@ The resources used in this project are listed below:
 10. [Kaggle microcourses](https://www.kaggle.com/learn/overview)
 11. [OpenCV Python tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/)
 12. [Python GTK+ 3 tutorials](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
+13. [Hand-Gesture-Recognition-Python-OPENCV](https://github.com/rkbvikrant/Hand-Gesture-Recognition-Python-OPENCV) by Vikrant Sharma
+14. [CNNGestureRecognizer](https://github.com/asingh33/CNNGestureRecognizer) by Abhishek Singh
