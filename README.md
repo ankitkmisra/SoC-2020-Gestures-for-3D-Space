@@ -16,7 +16,8 @@ Here are a few examples:
 
 ### Usage
 
-To use this project, follow these steps:
+To use this project, follow the steps listed below:
+
 1. First, make sure you have all the required dependencies. These include:
     1. Python (3.6.9)
     2. OpenCV Python (3.2.0)
@@ -47,7 +48,7 @@ Brief descriptions of the learning components of this project are given below:
 
 ### [OpenCV Practice](https://github.com/ankitkmisra/SoC-2020-Gestures-for-3D-Space/tree/master/OpenCV%20Practice)
 
-This directory contains several practice programs, written in Jupyter notebooks and Python-3 scripts when I was learning to use OpenCV Python. The topics covered include various kinds of image processing, such as thresholding, blurring, affine transformations, edge detection, corner detection, feature matching, watershed segmentation, etc.
+This directory contains several practice programs, written in Jupyter notebooks and Python-3 scripts when I was learning to use [OpenCV Python](https://opencv-python-tutroals.readthedocs.io/en/latest/). The topics covered include various kinds of image processing, such as thresholding, blurring, affine transformations, edge detection, corner detection, feature matching, watershed segmentation, etc.
 
 ### [NumPy Practice](https://github.com/ankitkmisra/SoC-2020-Gestures-for-3D-Space/tree/master/NumPy%20Practice)
 
@@ -68,3 +69,19 @@ This directory contains two Jupyter notebooks, in which I used transfer learning
 ### [Learning PyTorch](https://github.com/ankitkmisra/SoC-2020-Gestures-for-3D-Space/tree/master/Learning%20PyTorch)
 
 This directory contains a single Jupyter notebook I wrote when learning the basics of PyTorch. PyTorch was not used further in this project.
+
+## Citations and Resources Used
+
+The resources used in this project are listed below:
+1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+2. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
+3. [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron
+4. [Fingers](https://www.kaggle.com/koryakinp/fingers) dataset by Pavel Koryakin on Kaggle
+5. [American Sign Language dataset](https://ieee-dataport.org/open-access/static-hand-gesture-asl-dataset)
+6. Raimundo F. Pinto Jr., Carlos D. B. Borges, Antônio M. A. Almeida, and Iális C. Paula, Jr., “Static Hand Gesture Recognition Based on Convolutional Neural Networks,” Journal of Electrical and Computer Engineering, vol. 2019, Article ID 4167890, 12 pages, 2019. ([The ASL dataset paper](https://doi.org/10.1155/2019/4167890.))
+7. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks), a course offered by deeplearning.ai and taught by Prof. Andrew Ng on Coursera
+8. [Keras documentation](https://keras.io/)
+9. [PyTorch documentation](https://pytorch.org/docs/stable/index.html)
+10. [Kaggle microcourses](https://www.kaggle.com/learn/overview)
+11. [OpenCV Python tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/)
+12. [Python GTK+ 3 tutorials](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
